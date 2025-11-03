@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0389-find-the-difference](https://github.com/jackson-lafrance/leetcode/tree/master/0389-find-the-difference) |
 | [0459-repeated-substring-pattern](https://github.com/jackson-lafrance/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/jackson-lafrance/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0742-to-lower-case](https://github.com/jackson-lafrance/leetcode/tree/master/0742-to-lower-case) |
 ## Sliding Window
 |  |
 | ------- |
