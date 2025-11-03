@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/jackson-lafrance/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/jackson-lafrance/leetcode/tree/master/0742-to-lower-case) |
 | [1119-robot-bounded-in-circle](https://github.com/jackson-lafrance/leetcode/tree/master/1119-robot-bounded-in-circle) |
+| [1894-merge-strings-alternately](https://github.com/jackson-lafrance/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jackson-lafrance/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/jackson-lafrance/leetcode/tree/master/0283-move-zeroes) |
+| [1894-merge-strings-alternately](https://github.com/jackson-lafrance/leetcode/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
