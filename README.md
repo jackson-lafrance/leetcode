@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/jackson-lafrance/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/jackson-lafrance/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/jackson-lafrance/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0283-move-zeroes](https://github.com/jackson-lafrance/leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jackson-lafrance/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/jackson-lafrance/leetcode/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
 | ------- |
