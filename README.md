@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/jackson-lafrance/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jackson-lafrance/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/jackson-lafrance/leetcode/tree/master/0067-add-binary) |
+| [0445-add-two-numbers-ii](https://github.com/jackson-lafrance/leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Array
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/jackson-lafrance/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/jackson-lafrance/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/jackson-lafrance/leetcode/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/jackson-lafrance/leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -95,4 +97,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0242-valid-anagram](https://github.com/jackson-lafrance/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/jackson-lafrance/leetcode/tree/master/0389-find-the-difference) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/jackson-lafrance/leetcode/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
