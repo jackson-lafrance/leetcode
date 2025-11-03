@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/jackson-lafrance/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/jackson-lafrance/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0283-move-zeroes](https://github.com/jackson-lafrance/leetcode/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/jackson-lafrance/leetcode/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/jackson-lafrance/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/jackson-lafrance/leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/jackson-lafrance/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/jackson-lafrance/leetcode/tree/master/0682-baseball-game) |
 ## Matrix
 |  |
 | ------- |
@@ -105,4 +107,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/jackson-lafrance/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0682-baseball-game](https://github.com/jackson-lafrance/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
