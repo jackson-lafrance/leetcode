@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/jackson-lafrance/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/jackson-lafrance/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/jackson-lafrance/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jackson-lafrance/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/jackson-lafrance/leetcode/tree/master/0035-search-insert-position) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jackson-lafrance/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/jackson-lafrance/leetcode/tree/master/0792-binary-search) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jackson-lafrance/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/jackson-lafrance/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jackson-lafrance/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/jackson-lafrance/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jackson-lafrance/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
