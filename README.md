@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/jackson-lafrance/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0283-move-zeroes](https://github.com/jackson-lafrance/leetcode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/jackson-lafrance/leetcode/tree/master/0682-baseball-game) |
+| [0792-binary-search](https://github.com/jackson-lafrance/leetcode/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jackson-lafrance/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/jackson-lafrance/leetcode/tree/master/0035-search-insert-position) |
+| [0792-binary-search](https://github.com/jackson-lafrance/leetcode/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
