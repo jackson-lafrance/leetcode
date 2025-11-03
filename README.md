@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/jackson-lafrance/leetcode/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jackson-lafrance/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/jackson-lafrance/leetcode/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/jackson-lafrance/leetcode/tree/master/0890-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,4 +114,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/jackson-lafrance/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/jackson-lafrance/leetcode/tree/master/0682-baseball-game) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/jackson-lafrance/leetcode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
