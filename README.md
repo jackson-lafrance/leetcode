@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0932-monotonic-array](https://github.com/jackson-lafrance/leetcode/tree/master/0932-monotonic-array) |
 | [1018-largest-perimeter-triangle](https://github.com/jackson-lafrance/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/jackson-lafrance/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/jackson-lafrance/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/jackson-lafrance/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/jackson-lafrance/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/jackson-lafrance/leetcode/tree/master/0389-find-the-difference) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/jackson-lafrance/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## String
 |  |
 | ------- |
@@ -102,11 +104,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/jackson-lafrance/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/jackson-lafrance/leetcode/tree/master/0682-baseball-game) |
 | [1119-robot-bounded-in-circle](https://github.com/jackson-lafrance/leetcode/tree/master/1119-robot-bounded-in-circle) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/jackson-lafrance/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jackson-lafrance/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/jackson-lafrance/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/jackson-lafrance/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 ## Bit Manipulation
 |  |
 | ------- |
