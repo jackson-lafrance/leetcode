@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1349-check-if-it-is-a-straight-line](https://github.com/jackson-lafrance/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/jackson-lafrance/leetcode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/jackson-lafrance/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/jackson-lafrance/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/jackson-lafrance/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/jackson-lafrance/leetcode/tree/master/0389-find-the-difference) |
 | [1018-largest-perimeter-triangle](https://github.com/jackson-lafrance/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/jackson-lafrance/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Stack
 |  |
 | ------- |
