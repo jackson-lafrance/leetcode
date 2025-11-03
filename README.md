@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jackson-lafrance/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/jackson-lafrance/leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/jackson-lafrance/leetcode/tree/master/0890-lemonade-change) |
+| [0932-monotonic-array](https://github.com/jackson-lafrance/leetcode/tree/master/0932-monotonic-array) |
 ## Hash Table
 |  |
 | ------- |
