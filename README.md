@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/jackson-lafrance/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1119-robot-bounded-in-circle](https://github.com/jackson-lafrance/leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/jackson-lafrance/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/jackson-lafrance/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Array
 |  |
 | ------- |
