@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/jackson-lafrance/leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/jackson-lafrance/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/jackson-lafrance/leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/jackson-lafrance/leetcode/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/jackson-lafrance/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jackson-lafrance/leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/jackson-lafrance/leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/jackson-lafrance/leetcode/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -87,8 +89,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jackson-lafrance/leetcode/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/jackson-lafrance/leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/jackson-lafrance/leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/jackson-lafrance/leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
