@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/jackson-lafrance/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/jackson-lafrance/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1119-robot-bounded-in-circle](https://github.com/jackson-lafrance/leetcode/tree/master/1119-robot-bounded-in-circle) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/jackson-lafrance/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/jackson-lafrance/leetcode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/jackson-lafrance/leetcode/tree/master/0932-monotonic-array) |
 | [1018-largest-perimeter-triangle](https://github.com/jackson-lafrance/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/jackson-lafrance/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,4 +128,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0890-lemonade-change](https://github.com/jackson-lafrance/leetcode/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/jackson-lafrance/leetcode/tree/master/1018-largest-perimeter-triangle) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/jackson-lafrance/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
