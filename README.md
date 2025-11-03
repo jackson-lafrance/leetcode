@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/jackson-lafrance/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/jackson-lafrance/leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/jackson-lafrance/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/jackson-lafrance/leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/jackson-lafrance/leetcode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/jackson-lafrance/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jackson-lafrance/leetcode/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/jackson-lafrance/leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -83,4 +85,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jackson-lafrance/leetcode/tree/master/0067-add-binary) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/jackson-lafrance/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
