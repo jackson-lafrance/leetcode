@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1119-robot-bounded-in-circle](https://github.com/jackson-lafrance/leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/jackson-lafrance/leetcode/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/jackson-lafrance/leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/jackson-lafrance/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/jackson-lafrance/leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1677-matrix-diagonal-sum](https://github.com/jackson-lafrance/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/jackson-lafrance/leetcode/tree/master/1791-richest-customer-wealth) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/jackson-lafrance/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
