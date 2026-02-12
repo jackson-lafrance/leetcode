@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/jackson-lafrance/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/jackson-lafrance/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/jackson-lafrance/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0136-single-number](https://github.com/jackson-lafrance/leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/jackson-lafrance/leetcode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/jackson-lafrance/leetcode/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/jackson-lafrance/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/jackson-lafrance/leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/jackson-lafrance/leetcode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/jackson-lafrance/leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
